@@ -3,7 +3,7 @@
 I am a passionate **Data Professional** with a solid foundation in **database management**, as well as expertise in **data manipulation, analysis, and visualization**. Since **2022**, I have been honing my skills in this dynamic field.
 
 🎓 **Education:**
-- **Data Science Bootcamp**, CoGrammar (6-month intensive program)
+- **Data Science Bootcamp**
 - **Google Professional Data Analytics Certificate**
 - **SQL for Data Science Certificate**
 
